@@ -1,0 +1,4 @@
+version: 0.0.1
+sha256sum: 9aa2b221ee3b7d94349b06e88fb992a97bfecb02e2265a989653680cfad001f1  ro_RO.csv
+Msgento version: Magento ver. 2.3.4
+
